@@ -1,0 +1,3 @@
+# Special-Sandwich
+-----------------------------------------------------------------------<My special sandwich>--------------------------------------------------
+Its not much but, its still delicious. I came up with this recipe during the lock down when I was really bored. It had several stages to it, the final recipe is there in the recipe.md file. It is bursting with flavour, sour, savoury, umami, you name it. The onions give it the sour flavor, the cheese with mayo gives a sort off chewy, savoury taste and the capsicum nuetralizes all these flavours. To know more about this recipe, please go to the ingrediants.md file from here.
